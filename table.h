@@ -7,7 +7,7 @@
 
 using namespace std;
 
-const int TABLE_SIZE = 50000;
+const int TABLE_SIZE = 4096;
 
 struct Node {
     string genoma;
